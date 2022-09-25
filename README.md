@@ -1,2 +1,3 @@
-# verificador-de-hor-rio
-tratamento de valores no js - PretaLab
+# Verificador de horário
+
+Tratamento de valores no JS - [PretaLab](https://www.pretalab.com/ ).
